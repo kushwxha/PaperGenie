@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">568345758437</string>
+    <string name="google_api_key" translatable="false">AIzaSyCVSgEz409wNyJZBAP0yw9GXIzho0O-xmM</string>
+    <string name="google_app_id" translatable="false">1:568345758437:android:ea7339e10eac19214fe20c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCVSgEz409wNyJZBAP0yw9GXIzho0O-xmM</string>
+    <string name="google_storage_bucket" translatable="false">papergenie-3316f.appspot.com</string>
+    <string name="project_id" translatable="false">papergenie-3316f</string>
+</resources>

@@ -1,0 +1,5 @@
+com.example.papergenie.test.app-core-1.6.1-0 C:\Users\ak955\.gradle\caches\transforms-3\11acf2efab54852154ba1946e730089f\transformed\core-1.6.1\res
+com.example.papergenie.test.app-androidTest-1 E:\PaperGenie\app\build\generated\res\resValues\androidTest\debug
+com.example.papergenie.test.app-mergeDebugAndroidTestResources-2 E:\PaperGenie\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.papergenie.test.app-mergeDebugAndroidTestResources-3 E:\PaperGenie\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.papergenie.test.app-merged_res-4 E:\PaperGenie\app\build\intermediates\merged_res\debugAndroidTest

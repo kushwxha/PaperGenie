@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/generatepaperpage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="70dp"
+            android:src="@drawable/logo"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hey! Genie Need Some Details From You"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:layout_marginTop="10dp"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="330dp"
+            android:layout_height="450dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="130dp"
+            app:cardCornerRadius="12dp"
+            app:cardBackgroundColor="#ff914d"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:hint="Topics"
+                    android:layout_marginTop="25dp"
+                    app:boxBackgroundColor="@color/white"
+                    app:boxStrokeColor="#ffde59"
+                    >
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/topictxt"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:hint="Subject Name"
+                    android:layout_marginTop="10dp"
+                    app:boxBackgroundColor="@color/white"
+                    app:boxStrokeColor="#ffde59"
+                    >
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/subjecttxt"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:hint="Max Time (in minutes)"
+                    android:layout_marginTop="10dp"
+                    app:boxBackgroundColor="@color/white"
+                    app:boxStrokeColor="#ffde59"
+                    >
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/timetxt"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:hint="Number of Questions"
+                    android:layout_marginTop="10dp"
+                    app:boxBackgroundColor="@color/white"
+                    app:boxStrokeColor="#ffde59"
+                    >
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/noOfQuestxt"/>
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                    <RadioGroup
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:id="@+id/radiogrp">
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Easy"
+                            android:id="@+id/radiobtn1"/>
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Medium"
+                            android:layout_marginLeft="20dp"
+                            android:id="@+id/radiobtn2"/>
+
+                        <RadioButton
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Hard"
+                            android:layout_marginLeft="20dp"
+                            android:id="@+id/radiobtn3"/>
+
+                    </RadioGroup>
+
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/generateBtn"
+                    android:layout_width="150dp"
+                    android:layout_height="45dp"
+                    android:text="Generate"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:textSize="16dp"
+                    android:backgroundTint="#ffde59"
+                    android:textColor="@color/black"
+                    app:cornerRadius="10dp"/>
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+
+  </androidx.constraintlayout.widget.ConstraintLayout>

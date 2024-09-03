@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "com.example.papergenie.app-merged_res-39:/layout_activity_homepage.xml.flat",
+        "source": "com.example.papergenie.app-main-41:/layout/activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_logout_icon.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\logout_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_register.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_baseline_password_24.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\baseline_password_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_splashscreen2.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\splashscreen2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\font_abel.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\font\\abel.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_homepage.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_input.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\input.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_generatepaperpage.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\generatepaperpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\layout_activity_register_page.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\layout\\activity_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\layout_activity_pastpaper_page.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\layout\\activity_pastpaper_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\drawable_splashscreen1.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\drawable\\splashscreen1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-merged_res-39:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ak955\\.gradle\\daemon\\8.2\\com.example.papergenie.app-main-41:\\layout\\activity_splash_screen.xml"
+    }
+]

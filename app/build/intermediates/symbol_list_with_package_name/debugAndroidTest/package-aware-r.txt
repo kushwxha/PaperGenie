@@ -1,0 +1,3 @@
+com.example.papergenie.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
