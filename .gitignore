@@ -1,0 +1,40 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+
+# Local configuration files
+local.properties
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Android Studio specific
+.idea/
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# Android packaging
+*.apk
+*.ap_
+*.aab
+
+# Keystore files
+*.jks
+*.keystore
+
+# Proguard
+proguard/
+proguard-android.txt
+proguard-rules.pro
+
+# Firebase
+google-services.json

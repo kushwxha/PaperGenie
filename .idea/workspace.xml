@@ -4,12 +4,19 @@
     <shared>
       <config />
     </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.PaperGenie</theme>
+        </config>
+      </layout>
+    </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59434084-0c36-483e-bbee-6dd533ddbd39" name="Changes" comment="Frontend Done And Added Authentication" />
+    <list default="true" id="59434084-0c36-483e-bbee-6dd533ddbd39" name="Changes" comment="readme file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737436512354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="readme file">
+      <option name="closed" value="true" />
+      <created>1737436918367</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737436918367</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,6 +291,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Frontend Done And Added Authentication" />
-    <option name="LAST_COMMIT_MESSAGE" value="Frontend Done And Added Authentication" />
+    <MESSAGE value="readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme file" />
   </component>
 </project>
