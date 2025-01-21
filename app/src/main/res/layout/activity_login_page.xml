@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginPage"
+    android:background="@drawable/register">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="130dp"
+            android:src="@drawable/logo"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="300dp"
+            android:layout_height="320dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="40dp"
+            app:cardBackgroundColor="#80d3d3d3"
+            app:cardCornerRadius="12dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="LOGIN"
+                    android:layout_gravity="center"
+                    android:textSize="34dp"
+                    android:layout_marginTop="15dp"
+                    android:textStyle="bold"/>
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:hint="Email"
+                    android:layout_marginTop="15dp"
+                    app:boxBackgroundColor="@color/white"
+                    app:boxStrokeColor="#ffa250"
+                    >
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/emailText"
+                        android:textSize="14sp"
+                        android:drawableStart="@drawable/baseline_email_24"
+                        android:drawablePadding="8dp"
+                        android:inputType="textEmailAddress"
+                        />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="220dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:hint="Password"
+                    android:layout_marginTop="10dp"
+                    app:boxBackgroundColor="@color/white"
+                    app:endIconMode="password_toggle"
+                    app:boxStrokeColor="#ffa250"
+                    >
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/passwordText"
+                        android:textSize="14sp"
+                        android:drawableStart="@drawable/baseline_password_24"
+                        android:drawablePadding="8dp"
+                        android:inputType="textPassword"
+                        />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/loginBtn"
+                    android:layout_width="150dp"
+                    android:layout_height="43dp"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="20dp"
+                    android:backgroundTint="#ffa250"
+                    app:cornerRadius="10dp"
+                    android:text="Submit"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp">
+                    <TextView
+                        android:id="@+id/registertxt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Click Here"
+                        android:textColor="#3c54ec"
+                        android:textSize="16dp"
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="To Register"
+                        android:layout_marginLeft="4dp"
+                        android:textSize="16dp"
+                        android:textStyle="bold"/>
+
+                </LinearLayout>
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    android:visibility="gone"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="-75dp"
+                    android:layout_gravity="center"
+                    android:indeterminateTint="#ffa250"
+                    />
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

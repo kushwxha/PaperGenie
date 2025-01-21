@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PaperGenie" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#ffa250</item>
+    </style>
+
+    <style name="Theme.PaperGenie" parent="Base.Theme.PaperGenie" />
+
+    <style name="CardView." parent="CardView">
+        <item name="android:foreground">@drawable/gradient</item>Widget.MaterialComponents.TextInputLayout.*
+    </style>
+
+    <style name="MyTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- border color -->
+        <item name="boxStrokeColor">@color/black</item>
+
+        <!-- The color of the label when it is collapsed and the text field is active -->
+        <!-- The color of the label in all other text field states (such as resting and disabled) -->
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+</resources>

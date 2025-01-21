@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paper Genie</string>
+    <string name="new_paper_logo">new paper logo</string>
+    <string name="past_paper_icon">past paper icon</string>
+    <string name="genie_is_happy_make_your_wish">Genie is Happy! Make Your Wish</string>
+    <string name="create_new_paper">Create New Paper</string>
+    <string name="use_past_papers">Use Past Papers</string>
+    <string name="logout">Logout</string>
+    <string name="download_button">Download Button</string>
+</resources>

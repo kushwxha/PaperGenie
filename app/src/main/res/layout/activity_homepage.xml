@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Homepage"
+    android:background="@drawable/homepage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            >
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:src="@drawable/logo"
+                android:contentDescription="@string/app_name"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/genie_is_happy_make_your_wish"
+                android:textColor="#3B2B00"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"/>
+
+        </LinearLayout>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            app:cardCornerRadius="10dp"
+            app:cardBackgroundColor="#ff914d"
+            android:id="@+id/newPaperCard">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:src="@drawable/create_new_paper"
+                    android:contentDescription="@string/new_paper_logo"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/create_new_paper"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:layout_marginTop="5dp"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            app:cardCornerRadius="10dp"
+            app:cardBackgroundColor="#ffde59"
+            android:id="@+id/pastPaperCard">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:src="@drawable/past_paper"
+                    android:contentDescription="@string/past_paper_icon"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/use_past_papers"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:layout_marginTop="5dp"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="@string/logout"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            app:cornerRadius="10dp"
+            android:textSize="20sp"
+            android:id="@+id/logoutBtn"
+            android:textColor=" #3B2B00"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
